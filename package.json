@@ -1,0 +1,29 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Tracks employees using SQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephTidwell/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "Steph Tidwell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephTidwell/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/StephTidwell/employee-tracker-#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.5",
+    "mysql": "github:mysqljs/mysql",
+    "mysql2": "^2.2.5",
+    "util": "^0.12.3"
+  },
+  "devDependencies": {}
+}
