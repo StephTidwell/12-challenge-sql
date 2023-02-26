@@ -1,6 +1,8 @@
 # Employee Tracker
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## Screenshot: <img width="1792" alt="Screen Shot 2023-02-26 at 5 26 57 PM" src="https://user-images.githubusercontent.com/113862737/221441335-e3f006f8-3c56-411b-bd0e-cdfbe686db26.png">
+
+## Demo: https://drive.google.com/drive/folders/1MxCCXaOjQIFZ9pjBmtKIEVICcHg1yw6w?usp=sharing[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Week 12 homework for UNH Full-Stack Web Development Boot Camp
 
